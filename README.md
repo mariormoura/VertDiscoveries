@@ -27,4 +27,5 @@
 - Moura_RScript9_PlottingMainTextFigures.R
 
 ##### References:
-Moura, M. R., & Jetz, W. (2020). Shortfalls and opportunities in terrestrial vertebrate species discovery. bioRxiv.
+Moura, M. R., & Jetz, W. (2021). Shortfalls and opportunities in terrestrial vertebrate species discovery. Nature Ecology and Evolution, 5:631–639.
+DOI https://doi.org/10.1038/s41559-021-01411-5
