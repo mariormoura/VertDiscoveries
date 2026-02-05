@@ -26,6 +26,15 @@
 - Moura_RScript8_ValidationProcedure.R
 - Moura_RScript9_PlottingMainTextFigures.R
 
+##### External Files (available to download as Supplementary Data in the original publication:
+- TaxonLevelEstimates.zip (Supplementary Data 1)
+- AssemblageLevelEstimates.zip (Supplementary Data 2)
+- BioregionLevelEstimates.zip (Supplementary Data 3)
+- CountryLevelEstimates.zip (Supplementary Data 4).
+Obs.: All four files can be found at https://doi.org/10.1038/s41559-021-01411-5 or directly through this link: https://static-content.springer.com/esm/art%3A10.1038%2Fs41559-021-01411-5/MediaObjects/41559_2021_1411_MOESM4_ESM.zip)
+
 ##### References:
 Moura, M. R., & Jetz, W. (2021). Shortfalls and opportunities in terrestrial vertebrate species discovery. Nature Ecology and Evolution, 5:631–639.
 DOI https://doi.org/10.1038/s41559-021-01411-5
+
+#####
